@@ -94,9 +94,9 @@ html, body, [class*="css"] {{ font-family: "Open Sans", "Segoe UI", Arial, sans-
 /* Generic cards */
 .panel {{ background:white;border:1px solid var(--border);border-radius:7px;padding:12px 13px;box-shadow:0 1px 2px rgba(17,62,100,.035); }}
 .panel-title {{ color:#0B4D83;font-weight:800;font-size:14px;margin-bottom:8px; }}
-.card { background:white;border:1px solid var(--border);border-radius:7px;padding:13px;box-shadow:0 1px 2px rgba(17,62,100,.035); }
-.step-num { display:inline-flex;width:24px;height:24px;border-radius:50%;background:#E6F3FF;color:#1377BF;align-items:center;justify-content:center;font-weight:800;margin-right:7px; }
-.muted { color:#6D8295;font-size:10px;line-height:1.45; }
+.card {{ background:white;border:1px solid var(--border);border-radius:7px;padding:13px;box-shadow:0 1px 2px rgba(17,62,100,.035); }}
+.step-num {{ display:inline-flex;width:24px;height:24px;border-radius:50%;background:#E6F3FF;color:#1377BF;align-items:center;justify-content:center;font-weight:800;margin-right:7px; }}
+.muted {{ color:#6D8295;font-size:10px;line-height:1.45; }}
 .kpi-card {{ border:1px solid var(--border);border-radius:7px;padding:11px 12px;min-height:78px;display:flex;align-items:center;gap:11px; }}
 .kpi-icon {{ width:42px;height:42px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:800;flex:0 0 auto; }}
 .kpi-value {{ font-size:24px;font-weight:800;line-height:1;color:#104C7B; }}
@@ -169,7 +169,7 @@ def render_sidebar_brand() -> None:
     )
 
 
-def render_header(version: str = "v1.8", user_name: str = "Mohamed Mussie", user_role: str = "Jijiga AO") -> None:
+def render_header(version: str = "v1.8.1", user_name: str = "Mohamed Mussie", user_role: str = "Jijiga AO") -> None:
     initials = "".join(x[:1] for x in user_name.split()[:2]).upper() or "JM"
     st.markdown(
         f"""
