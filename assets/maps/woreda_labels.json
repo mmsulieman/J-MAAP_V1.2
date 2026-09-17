@@ -1,0 +1,709 @@
+[
+  {
+    "name": "Ma'ayso",
+    "zone": "Siti",
+    "pcode": "ET0511008",
+    "lat": 9.219178902578586,
+    "lon": 40.5664941778479
+  },
+  {
+    "name": "Dhunyar",
+    "zone": "Siti",
+    "pcode": "ET0511010",
+    "lat": 10.672384594888648,
+    "lon": 40.90795056799732
+  },
+  {
+    "name": "Gablalu",
+    "zone": "Siti",
+    "pcode": "ET0511005",
+    "lat": 10.719296467668094,
+    "lon": 41.60406348383527
+  },
+  {
+    "name": "Danbal",
+    "zone": "Siti",
+    "pcode": "ET0511003",
+    "lat": 9.8890952958601,
+    "lon": 42.48712621944859
+  },
+  {
+    "name": "Ayshaca",
+    "zone": "Siti",
+    "pcode": "ET0511002",
+    "lat": 10.673604928378294,
+    "lon": 42.52660686951448
+  },
+  {
+    "name": "Kabribayah",
+    "zone": "Fafan",
+    "pcode": "ET0505007",
+    "lat": 9.101340505709029,
+    "lon": 43.2541237625903
+  },
+  {
+    "name": "S/Jijiga",
+    "zone": "Fafan",
+    "pcode": "ET0505010",
+    "lat": 9.139960350093357,
+    "lon": 42.8108138260398
+  },
+  {
+    "name": "Gursum",
+    "zone": "Fafan",
+    "pcode": "ET0505004",
+    "lat": 9.286314746472367,
+    "lon": 42.49500083175274
+  },
+  {
+    "name": "Babile",
+    "zone": "Fafan",
+    "pcode": "ET0505002",
+    "lat": 8.863398561585527,
+    "lon": 42.32869433325617
+  },
+  {
+    "name": "Degahbur",
+    "zone": "Jarar",
+    "pcode": "ET0506006",
+    "lat": 8.113820486011035,
+    "lon": 43.589537055325465
+  },
+  {
+    "name": "Degahmadow",
+    "zone": "Jarar",
+    "pcode": "ET0506007",
+    "lat": 8.084253344771447,
+    "lon": 43.007755369136994
+  },
+  {
+    "name": "Aware",
+    "zone": "Jarar",
+    "pcode": "ET0506002",
+    "lat": 8.071024802774494,
+    "lon": 44.16626177019925
+  },
+  {
+    "name": "Danod",
+    "zone": "Doollo",
+    "pcode": "ET0503002",
+    "lat": 7.709968119487491,
+    "lon": 45.685666140784654
+  },
+  {
+    "name": "Bokh",
+    "zone": "Doollo",
+    "pcode": "ET0503001",
+    "lat": 7.630632487457638,
+    "lon": 46.66194704491202
+  },
+  {
+    "name": "Galadi",
+    "zone": "Doollo",
+    "pcode": "ET0503004",
+    "lat": 6.976291768974445,
+    "lon": 46.312133599211904
+  },
+  {
+    "name": "Warder",
+    "zone": "Doollo",
+    "pcode": "ET0503007",
+    "lat": 6.749418973057156,
+    "lon": 45.57543528225651
+  },
+  {
+    "name": "Shaygosh",
+    "zone": "Korahea",
+    "pcode": "ET0507009",
+    "lat": 7.363845409548012,
+    "lon": 44.05398641667592
+  },
+  {
+    "name": "Ferfer",
+    "zone": "Shabelle",
+    "pcode": "ET0510007",
+    "lat": 5.217248358578854,
+    "lon": 45.05007113651656
+  },
+  {
+    "name": "Mustahil",
+    "zone": "Shabelle",
+    "pcode": "ET0510010",
+    "lat": 5.202176917483227,
+    "lon": 44.65189602084671
+  },
+  {
+    "name": "Qalafo",
+    "zone": "Shabelle",
+    "pcode": "ET0510009",
+    "lat": 5.363080841545918,
+    "lon": 44.151614317143625
+  },
+  {
+    "name": "Godey",
+    "zone": "Shabelle",
+    "pcode": "ET0510008",
+    "lat": 6.013279000031313,
+    "lon": 43.69552284993343
+  },
+  {
+    "name": "East Ime",
+    "zone": "Shabelle",
+    "pcode": "ET0510005",
+    "lat": 6.654174521771092,
+    "lon": 42.31284013277173
+  },
+  {
+    "name": "Adadle",
+    "zone": "Shabelle",
+    "pcode": "ET0510002",
+    "lat": 5.4913990777785315,
+    "lon": 43.47967012698597
+  },
+  {
+    "name": "Dolo bay",
+    "zone": "Afder",
+    "pcode": "ET0501002",
+    "lat": 4.488416733756032,
+    "lon": 42.09860139385609
+  },
+  {
+    "name": "Barey",
+    "zone": "Afder",
+    "pcode": "ET0501001",
+    "lat": 4.675243099937449,
+    "lon": 42.71063870703492
+  },
+  {
+    "name": "Hargelle",
+    "zone": "Afder",
+    "pcode": "ET0501005",
+    "lat": 5.310261574210458,
+    "lon": 42.46395974382692
+  },
+  {
+    "name": "West Ime",
+    "zone": "Afder",
+    "pcode": "ET0501009",
+    "lat": 6.258478160226967,
+    "lon": 42.2412057432093
+  },
+  {
+    "name": "Elkari",
+    "zone": "Afder",
+    "pcode": "ET0501003",
+    "lat": 5.948033506857719,
+    "lon": 42.08256486317188
+  },
+  {
+    "name": "Charati",
+    "zone": "Afder",
+    "pcode": "ET0501006",
+    "lat": 5.298138366415571,
+    "lon": 41.677563254152965
+  },
+  {
+    "name": "Gorobakaks",
+    "zone": "Liban",
+    "pcode": "ET0508005",
+    "lat": 6.0891003637641745,
+    "lon": 41.337186238330844
+  },
+  {
+    "name": "Guradamole",
+    "zone": "Liban",
+    "pcode": "ET0508006",
+    "lat": 6.26532935879871,
+    "lon": 40.63245734885874
+  },
+  {
+    "name": "Bokolmayo",
+    "zone": "Liban",
+    "pcode": "ET0508001",
+    "lat": 4.41628887671303,
+    "lon": 41.30106749981907
+  },
+  {
+    "name": "Filtu",
+    "zone": "Liban",
+    "pcode": "ET0508004",
+    "lat": 5.02575519519165,
+    "lon": 40.90309569061694
+  },
+  {
+    "name": "Hudet",
+    "zone": "Dawa",
+    "pcode": "ET0502001",
+    "lat": 4.549691600365985,
+    "lon": 39.31615901565822
+  },
+  {
+    "name": "Moyale",
+    "zone": "Dawa",
+    "pcode": "ET0502003",
+    "lat": 3.8776825483804,
+    "lon": 39.246896924933374
+  },
+  {
+    "name": "Dhuhun",
+    "zone": "Nogob",
+    "pcode": "ET0509002",
+    "lat": 7.127797020533435,
+    "lon": 42.687988477463584
+  },
+  {
+    "name": "Sagag",
+    "zone": "Nogob",
+    "pcode": "ET0509007",
+    "lat": 7.63219800671721,
+    "lon": 42.90850529717091
+  },
+  {
+    "name": "Hamaro",
+    "zone": "Erer",
+    "pcode": "ET0504002",
+    "lat": 7.647318635015227,
+    "lon": 42.28164961192722
+  },
+  {
+    "name": "Fik",
+    "zone": "Erer",
+    "pcode": "ET0504001",
+    "lat": 8.19657906975711,
+    "lon": 42.36207512291292
+  },
+  {
+    "name": "Mayumuluko",
+    "zone": "Erer",
+    "pcode": "ET0504005",
+    "lat": 8.48071800219182,
+    "lon": 41.83264636502769
+  },
+  {
+    "name": "Qubi",
+    "zone": "Erer",
+    "pcode": "ET0504003",
+    "lat": 7.856182068151992,
+    "lon": 41.794368297312836
+  },
+  {
+    "name": "Salahad",
+    "zone": "Erer",
+    "pcode": "ET0504006",
+    "lat": 7.0937206463255515,
+    "lon": 41.67177863164679
+  },
+  {
+    "name": "Tuliguled",
+    "zone": "Fafan",
+    "pcode": "ET0505011",
+    "lat": 9.538389955785279,
+    "lon": 42.65515862950793
+  },
+  {
+    "name": "Harshin",
+    "zone": "Fafan",
+    "pcode": "ET0505006",
+    "lat": 8.908306125293555,
+    "lon": 43.76918066724746
+  },
+  {
+    "name": "Erer",
+    "zone": "Siti",
+    "pcode": "ET0511004",
+    "lat": 9.896619227564136,
+    "lon": 41.41870944381563
+  },
+  {
+    "name": "Shinile",
+    "zone": "Siti",
+    "pcode": "ET0511009",
+    "lat": 9.905374621332623,
+    "lon": 41.88795575491158
+  },
+  {
+    "name": "Ararso",
+    "zone": "Jarar",
+    "pcode": "ET0506001",
+    "lat": 8.701205484976862,
+    "lon": 43.379003343962495
+  },
+  {
+    "name": "Birkod",
+    "zone": "Jarar",
+    "pcode": "ET0506004",
+    "lat": 7.60964732355334,
+    "lon": 43.61650797732658
+  },
+  {
+    "name": "Marsin",
+    "zone": "Korahea",
+    "pcode": "ET0507008",
+    "lat": 7.3641951584923735,
+    "lon": 44.65544368449641
+  },
+  {
+    "name": "Deka Suftu",
+    "zone": "Liban",
+    "pcode": "ET0508002",
+    "lat": 5.03705374552031,
+    "lon": 40.035384998409576
+  },
+  {
+    "name": "Qarsadula",
+    "zone": "Liban",
+    "pcode": "ET0508007",
+    "lat": 5.642005198258509,
+    "lon": 40.22481942200398
+  },
+  {
+    "name": "Mubarak",
+    "zone": "Dawa",
+    "pcode": "ET0502004",
+    "lat": 4.3972202127415265,
+    "lon": 40.21714105317339
+  },
+  {
+    "name": "Bercano",
+    "zone": "Shabelle",
+    "pcode": "ET0510003",
+    "lat": 6.181808746523212,
+    "lon": 43.19722706663824
+  },
+  {
+    "name": "Daratole",
+    "zone": "Doollo",
+    "pcode": "ET0503003",
+    "lat": 7.284822268157976,
+    "lon": 45.3505204908601
+  },
+  {
+    "name": "Goljano",
+    "zone": "Fafan",
+    "pcode": "ET0505003",
+    "lat": 8.714871693871288,
+    "lon": 42.698891152688944
+  },
+  {
+    "name": "Lagahida",
+    "zone": "Erer",
+    "pcode": "ET0504004",
+    "lat": 7.439003632609455,
+    "lon": 41.768067867283285
+  },
+  {
+    "name": "Raso",
+    "zone": "Afder",
+    "pcode": "ET0501008",
+    "lat": 6.786205537765356,
+    "lon": 41.846665659835566
+  },
+  {
+    "name": "Elweyne",
+    "zone": "Nogob",
+    "pcode": "ET0509003",
+    "lat": 6.561553028816895,
+    "lon": 43.056252228913735
+  },
+  {
+    "name": "Daroor",
+    "zone": "Jarar",
+    "pcode": "ET0506005",
+    "lat": 8.424628838089708,
+    "lon": 44.47563182021321
+  },
+  {
+    "name": "Yocale",
+    "zone": "Jarar",
+    "pcode": "ET0506011",
+    "lat": 8.424495024084653,
+    "lon": 43.809862114501264
+  },
+  {
+    "name": "Gashamo",
+    "zone": "Jarar",
+    "pcode": "ET0506009",
+    "lat": 8.146392414599974,
+    "lon": 45.3189079115015
+  },
+  {
+    "name": "Awbare",
+    "zone": "Fafan",
+    "pcode": "ET0505001",
+    "lat": 9.61045268745914,
+    "lon": 43.10867814345301
+  },
+  {
+    "name": "Gunagado",
+    "zone": "Jarar",
+    "pcode": "ET0506010",
+    "lat": 7.6534017511577375,
+    "lon": 44.14583086192663
+  },
+  {
+    "name": "Shilabo",
+    "zone": "Korahea",
+    "pcode": "ET0507010",
+    "lat": 5.946100795875692,
+    "lon": 45.23946244723426
+  },
+  {
+    "name": "Dhobaweyn",
+    "zone": "Korahea",
+    "pcode": "ET0507002",
+    "lat": 6.071295386775448,
+    "lon": 44.3895469173061
+  },
+  {
+    "name": "Bodaley",
+    "zone": "Korahea",
+    "pcode": "ET0507001",
+    "lat": 7.023248130837539,
+    "lon": 43.92811673898378
+  },
+  {
+    "name": "Horashagah",
+    "zone": "Nogob",
+    "pcode": "ET0509006",
+    "lat": 6.999624668848568,
+    "lon": 43.46033604740106
+  },
+  {
+    "name": "Garbo",
+    "zone": "Nogob",
+    "pcode": "ET0509004",
+    "lat": 7.317518275590859,
+    "lon": 43.205500922053545
+  },
+  {
+    "name": "Hadhagala",
+    "zone": "Siti",
+    "pcode": "ET0511007",
+    "lat": 10.40775061959388,
+    "lon": 42.16738753398147
+  },
+  {
+    "name": "Gota-Biki",
+    "zone": "Siti",
+    "pcode": "ET0511006",
+    "lat": 9.657898205683033,
+    "lon": 41.18998669920517
+  },
+  {
+    "name": "Harawa",
+    "zone": "Fafan",
+    "pcode": "ET0505005",
+    "lat": 9.972929569520167,
+    "lon": 42.92018980780701
+  },
+  {
+    "name": "Mula",
+    "zone": "Fafan",
+    "pcode": "ET0505008",
+    "lat": 8.671638349358576,
+    "lon": 43.03758836956161
+  },
+  {
+    "name": "Yahob",
+    "zone": "Erer",
+    "pcode": "ET0504008",
+    "lat": 7.853841958386951,
+    "lon": 42.573236915674
+  },
+  {
+    "name": "Wangey",
+    "zone": "Erer",
+    "pcode": "ET0504007",
+    "lat": 7.443925078449733,
+    "lon": 42.2037138391952
+  },
+  {
+    "name": "Ayun",
+    "zone": "Nogob",
+    "pcode": "ET0509001",
+    "lat": 7.117638546433836,
+    "lon": 42.39227622322305
+  },
+  {
+    "name": "Hararey",
+    "zone": "Nogob",
+    "pcode": "ET0509005",
+    "lat": 6.928221152334752,
+    "lon": 42.98819774895602
+  },
+  {
+    "name": "Dhanan",
+    "zone": "Shabelle",
+    "pcode": "ET0510004",
+    "lat": 6.580864879666596,
+    "lon": 43.48554439073053
+  },
+  {
+    "name": "Qadaduma",
+    "zone": "Dawa",
+    "pcode": "ET0502002",
+    "lat": 3.7415240055169807,
+    "lon": 39.59540761847568
+  },
+  {
+    "name": "Dolo Ado",
+    "zone": "Liban",
+    "pcode": "ET0508003",
+    "lat": 4.162565681585028,
+    "lon": 41.65768123711325
+  },
+  {
+    "name": "Godgod",
+    "zone": "Afder",
+    "pcode": "ET0501004",
+    "lat": 4.8222024803793,
+    "lon": 43.2633130021838
+  },
+  {
+    "name": "Qohle",
+    "zone": "Afder",
+    "pcode": "ET0501007",
+    "lat": 5.309235895104281,
+    "lon": 43.12610683062089
+  },
+  {
+    "name": "Abakarow",
+    "zone": "Shabelle",
+    "pcode": "ET0510001",
+    "lat": 6.473311525090636,
+    "lon": 42.69160829102087
+  },
+  {
+    "name": "Elale",
+    "zone": "Shabelle",
+    "pcode": "ET0510006",
+    "lat": 6.190293922463013,
+    "lon": 43.9266348303084
+  },
+  {
+    "name": "Galhamur",
+    "zone": "Doollo",
+    "pcode": "ET0503005",
+    "lat": 7.719193143781908,
+    "lon": 47.344772841142124
+  },
+  {
+    "name": "Dig",
+    "zone": "Jarar",
+    "pcode": "ET0506008",
+    "lat": 7.686513122704802,
+    "lon": 44.49660494131203
+  },
+  {
+    "name": "Bilcilbur",
+    "zone": "Jarar",
+    "pcode": "ET0506003",
+    "lat": 8.381440713560263,
+    "lon": 43.29768189515515
+  },
+  {
+    "name": "Lehel-yuub",
+    "zone": "Doollo",
+    "pcode": "ET0503006",
+    "lat": 6.584653887441059,
+    "lon": 45.164457417089615
+  },
+  {
+    "name": "Higloley",
+    "zone": "Korahea",
+    "pcode": "ET0507006",
+    "lat": 5.735373524504426,
+    "lon": 44.572072507969175
+  },
+  {
+    "name": "El-Ogaden",
+    "zone": "Korahea",
+    "pcode": "ET0507003",
+    "lat": 6.4196986785587296,
+    "lon": 44.43764579959955
+  },
+  {
+    "name": "Lasdankayr",
+    "zone": "Korahea",
+    "pcode": "ET0507007",
+    "lat": 6.570251387420671,
+    "lon": 43.89742412702359
+  },
+  {
+    "name": "Goglo",
+    "zone": "Korahea",
+    "pcode": "ET0507004",
+    "lat": 6.838201419462132,
+    "lon": 44.62732350305587
+  },
+  {
+    "name": "Kabridahar",
+    "zone": "Korahea",
+    "pcode": "ET0507007",
+    "lat": 6.73162570378967,
+    "lon": 44.26249580165212
+  },
+  {
+    "name": "N/Jijiga",
+    "zone": "Fafan",
+    "pcode": "ET0505009",
+    "lat": 9.372146131840774,
+    "lon": 43.03110774235219
+  },
+  {
+    "name": "Wajale CA",
+    "zone": "Fafan",
+    "pcode": "ET0505014",
+    "lat": 9.556231244943943,
+    "lon": 43.32275837338159
+  },
+  {
+    "name": "Jijiga CA",
+    "zone": "Fafan",
+    "pcode": "ET0505012",
+    "lat": 9.36806597594424,
+    "lon": 42.813756509543666
+  },
+  {
+    "name": "D/Bour CA",
+    "zone": "Jarar",
+    "pcode": "ET0506012",
+    "lat": 8.225768072086856,
+    "lon": 43.551215943103735
+  },
+  {
+    "name": "K/dahar CA",
+    "zone": "Korahea",
+    "pcode": "ET0507011",
+    "lat": 6.732744030452543,
+    "lon": 44.27618454057199
+  },
+  {
+    "name": "Godey CA",
+    "zone": "Shabelle",
+    "pcode": "ET0510011",
+    "lat": 5.950922145493014,
+    "lon": 43.55572886584327
+  },
+  {
+    "name": "Daymeed",
+    "zone": "Siti",
+    "pcode": "ET0511011",
+    "lat": 9.590541424424377,
+    "lon": 40.582831826495315
+  },
+  {
+    "name": "Afdam",
+    "zone": "Siti",
+    "pcode": "ET0511001",
+    "lat": 9.799528730163404,
+    "lon": 40.93287814171799
+  },
+  {
+    "name": "K/bayah CA",
+    "zone": "Fafan",
+    "pcode": "ET0505013",
+    "lat": 9.095883969928764,
+    "lon": 43.18126325025211
+  }
+]
