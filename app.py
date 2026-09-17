@@ -47,7 +47,7 @@ inject_styles()
 
 def branded_header(reporting_month: str) -> None:
     # The reporting period is shown in the filter strip; keep the top header clean.
-    render_header(version="v1.8", user_name="Mohamed Mussie", user_role="Jijiga AO")
+    render_header(version="v1.8.1", user_name="Mohamed Mussie", user_role="Jijiga AO")
 
 
 def page_heading(title: str, subtitle: str) -> None:
@@ -183,7 +183,7 @@ with st.sidebar:
         ],
         index=0, label_visibility="collapsed",
     )
-    st.markdown('<div class="sidebar-footer"><b>Zero Hunger<br>for a Better Tomorrow</b><br><br>J-MAAP v1.8</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sidebar-footer"><b>Zero Hunger<br>for a Better Tomorrow</b><br><br>J-MAAP v1.8.1</div>', unsafe_allow_html=True)
 
 # Changing the selected reporting cohort invalidates any previously calculated run.
 current_params = (reporting_month.strip(), sub_office.strip())
