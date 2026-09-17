@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Strengthen CFM awareness and visibility across activities",
+    "codes": [
+      "A1_CFM_AWARE",
+      "A1_CFM_VISIBLE",
+      "A2_CFM_BANNER",
+      "A2_CFM_AWARE",
+      "A3_CFM_AWARE",
+      "A6_CFM_AWARE"
+    ],
+    "priority": "High",
+    "owner": "Programme / AAP / CPs"
+  },
+  {
+    "title": "Improve safety arrangements at Relief distribution sites",
+    "codes": [
+      "A1_SAFETY"
+    ],
+    "priority": "High",
+    "owner": "Programme / Protection-AAP / CP"
+  },
+  {
+    "title": "Reinforce Relief entitlement communication and FDP display",
+    "codes": [
+      "A1_ENT_VERBAL",
+      "A1_ENT_DISPLAY"
+    ],
+    "priority": "Medium-High",
+    "owner": "Programme / CP"
+  },
+  {
+    "title": "Verify reported entitlement non-receipt and payment allegations",
+    "codes": [
+      "A1_NO_ENTITLE",
+      "A1_PAYMENT"
+    ],
+    "priority": "Critical",
+    "owner": "Programme / RAM-M&E / CP"
+  },
+  {
+    "title": "Verify Relief beneficiary-list and selection controls",
+    "codes": [
+      "A1_BEN_LIST"
+    ],
+    "priority": "High",
+    "owner": "Programme / RAM-M&E / CP"
+  },
+  {
+    "title": "Strengthen TSFP beneficiary verification/admission controls",
+    "codes": [
+      "A2_NONREG"
+    ],
+    "priority": "High",
+    "owner": "Nutrition / Health counterparts / CP"
+  },
+  {
+    "title": "Improve MUAC measurement procedure quality",
+    "codes": [
+      "A2_MUAC"
+    ],
+    "priority": "High",
+    "owner": "Nutrition / Health counterparts"
+  },
+  {
+    "title": "Follow up TSFP food delivery timeliness exceptions",
+    "codes": [
+      "A2_DELIVERY_LATE"
+    ],
+    "priority": "Medium-High",
+    "owner": "Nutrition / Supply Chain / CP"
+  },
+  {
+    "title": "Verify Refugee stock reconciliation exceptions",
+    "codes": [
+      "A3_STOCK_RECON"
+    ],
+    "priority": "High",
+    "owner": "Refugee Programme / Supply Chain / CP"
+  },
+  {
+    "title": "Clarify Activity 6 intervention duration and beneficiary information",
+    "codes": [
+      "A6_END_INFO"
+    ],
+    "priority": "Medium-High",
+    "owner": "Resilience / CP"
+  },
+  {
+    "title": "Strengthen Activity 6 record keeping, post-harvest, market and nutrition training",
+    "codes": [
+      "A6_RECORDS",
+      "A6_POSTHARVEST",
+      "A6_MARKETTRAIN",
+      "A6_MARKETINFO",
+      "A6_NUTRITION"
+    ],
+    "priority": "Medium",
+    "owner": "Resilience / CP / technical counterparts"
+  }
+]

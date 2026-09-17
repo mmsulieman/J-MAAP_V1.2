@@ -1,0 +1,53 @@
+{
+  "activity": [
+    "Activities to be assessed for this visit"
+  ],
+  "monitoring_date": [
+    "Enter the date:"
+  ],
+  "sub_office": [
+    "WFP Sub Office:"
+  ],
+  "zone": [
+    "Zone:"
+  ],
+  "woreda": [
+    "Wereda"
+  ],
+  "site": [
+    "FDP name"
+  ],
+  "site_alt": [
+    "Specify FDP"
+  ],
+  "provider": [
+    "Information collected by :"
+  ],
+  "monitoring_month_manual": [
+    "Monitoring month:"
+  ],
+  "monitoring_type": [
+    "Please select which type or DM survey you're starting"
+  ],
+  "tsfp_checklist": [
+    "Please select TSFP checklists"
+  ],
+  "uuid": [
+    "_uuid"
+  ],
+  "xform_id": [
+    "_xform_id"
+  ],
+  "submission_time": [
+    "_submission_time"
+  ],
+  "cfm_usage_general": [
+    "Have you ever utilized the available feedback mechanisms?"
+  ],
+  "cfm_response_general": [
+    "Have you ever been assisted/received feedback based on your complaints?"
+  ],
+  "cfm_satisfaction_general": [
+    "Are you satisfied with the existing complaints and feedback mechanisms in place?"
+  ]
+}
